@@ -4,7 +4,7 @@ import numpy as np
 import time
 
 # # write title
-# st.title('This is my title')
+st.title('This is my title')
 # st.header('This is the header')
 # st.subheader('This is subheader')
 #
