@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05bc28b0-f39d-47bf-83fb-dccd141634bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Research Notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Dash/.ipynb_checkpoints/Dash-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Dash/.ipynb_checkpoints/Dash-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Dash/Dash.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Dash/Dash.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="82" key="FileChooserDialogImpl" timestamp="1637598065308">
+    <state x="422" y="82" key="FileChooserDialogImpl" timestamp="1637735236682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1637598065308" />
+    <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1637735236682" />
   </component>
 </project>
