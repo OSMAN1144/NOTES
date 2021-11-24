@@ -77,7 +77,7 @@ app.layout = html.Div(children=[
 
             dcc.Interval(
                 id='graph-update',
-                interval=1 * 1000,
+                interval=1 * 10,
                 n_intervals=0
             ),
 
