@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0aeea52-acc1-4033-8b28-9114418bf262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../15 Business Dashboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 Business Dashboard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../16 Dash/.ipynb_checkpoints/Dash-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../16 Dash/.ipynb_checkpoints/Dash-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../16 Dash/Dash.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../16 Dash/Dash.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
